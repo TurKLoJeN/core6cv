@@ -10,52 +10,35 @@ I have completed the Core 5.0 CV script course by Murat Yücedağ, and this is t
 
 ### Default Page
 
-![1](https://github.com/TurKLoJeN/core6cv/assets/32311900/9c98140b-1661-4b28-9cea-c0f686730c0c)
-
-![2](https://github.com/TurKLoJeN/core6cv/assets/32311900/3898e43f-3065-496b-a20b-12aa3791ad38)
-
-![3](https://github.com/TurKLoJeN/core6cv/assets/32311900/4e1685f8-0d10-453f-a3c6-e522643450ab)
-
-![4](https://github.com/TurKLoJeN/core6cv/assets/32311900/666d7914-ba78-4595-8d60-6ac6255c0112)
-
-![5](https://github.com/TurKLoJeN/core6cv/assets/32311900/f40ebfa9-d269-4ec9-84de-5841ea193cb8)
-
-![6](https://github.com/TurKLoJeN/core6cv/assets/32311900/56f33f18-1f81-40fc-a550-7ae6e340b7ed)
-
-![7](https://github.com/TurKLoJeN/core6cv/assets/32311900/68a676fe-9c70-4ef8-8bc6-6d1749005b69)
-
-![8](https://github.com/TurKLoJeN/core6cv/assets/32311900/5887caa2-5f9a-456d-8ae5-16bda183d007)
+![4](https://github.com/TurKLoJeN/core6cv/assets/32311900/55d179a3-8239-41ed-8eb1-02c2301ddd48)
+![5](https://github.com/TurKLoJeN/core6cv/assets/32311900/32c9536b-468c-4a50-b235-85c303bed2f7)
+![6](https://github.com/TurKLoJeN/core6cv/assets/32311900/840bd093-3966-4593-a4b4-17b1b5bdea7e)
+![7](https://github.com/TurKLoJeN/core6cv/assets/32311900/4fa6783d-c400-4a86-a6e7-9d55435052c2)
+![8](https://github.com/TurKLoJeN/core6cv/assets/32311900/85b1acfa-8cb5-419d-9f17-96a895cef761)
+![1](https://github.com/TurKLoJeN/core6cv/assets/32311900/69efe9ec-b4ad-49f0-9399-40486eea957c)
+![2](https://github.com/TurKLoJeN/core6cv/assets/32311900/c2920df9-2987-4831-9f98-4313349c510c)
+![3](https://github.com/TurKLoJeN/core6cv/assets/32311900/3f570dba-66ed-498c-9086-ce61a84d78b2)
 
 
 ### Writer Dashboard
 
-![16](https://github.com/TurKLoJeN/core6cv/assets/32311900/03c4a4c3-3a55-4ece-9907-ffc9387f65e4)
-
-![11](https://github.com/TurKLoJeN/core6cv/assets/32311900/981523a1-89db-4918-b7af-ec4d2ae9e891)
-
-![12](https://github.com/TurKLoJeN/core6cv/assets/32311900/a70d7c37-f3d9-4d05-99b7-56b0aa4bb249)
-
-![13](https://github.com/TurKLoJeN/core6cv/assets/32311900/abf05751-ad63-497d-9bf7-3edb1f423ee4)
-
-![14](https://github.com/TurKLoJeN/core6cv/assets/32311900/2be010dc-8537-456f-a813-90f47a07891d)
-
-![15](https://github.com/TurKLoJeN/core6cv/assets/32311900/37ac9f61-57e1-4fd6-ab78-64b3a0d2fccc)
+![16](https://github.com/TurKLoJeN/core6cv/assets/32311900/70bbc78b-c83c-4eb6-83cb-7c6c7fa8a4d7)
+![11](https://github.com/TurKLoJeN/core6cv/assets/32311900/0ef4b8bf-10ba-4f4f-b072-d06ee1dd7200)
+![12](https://github.com/TurKLoJeN/core6cv/assets/32311900/b593dc02-59e5-4c53-9cd4-2725278aa9ca)
+![13](https://github.com/TurKLoJeN/core6cv/assets/32311900/891163bc-d8e7-4b2f-9f1e-535c9a609a1a)
+![14](https://github.com/TurKLoJeN/core6cv/assets/32311900/fee97d07-5a44-44d3-9c00-685995888e99)
+![15](https://github.com/TurKLoJeN/core6cv/assets/32311900/ace5aacc-a782-4cdf-b26e-e68d9f0c2c55)
 
 
 ### Admin Dashboard
 
 
-![26](https://github.com/TurKLoJeN/core6cv/assets/32311900/3f3b94ca-e5d0-417c-8611-bad8782e9622)
-
-![21](https://github.com/TurKLoJeN/core6cv/assets/32311900/84a9a7af-c150-478b-9601-bb2fd5067062)
-
-![22](https://github.com/TurKLoJeN/core6cv/assets/32311900/4d150905-932f-4ade-9b3c-81b41a34e18b)
-
-![23](https://github.com/TurKLoJeN/core6cv/assets/32311900/df1cd173-aa76-4940-b6cf-23892f34fe70)
-
-![24](https://github.com/TurKLoJeN/core6cv/assets/32311900/e7e791ec-a204-48dd-8a4c-dffc52d1de1e)
-
-![25](https://github.com/TurKLoJeN/core6cv/assets/32311900/86b1bd3c-ab6f-4f93-803e-5dd20d856f4c)
+![22](https://github.com/TurKLoJeN/core6cv/assets/32311900/c7115626-780a-4189-9ee2-397557f18272)
+![23](https://github.com/TurKLoJeN/core6cv/assets/32311900/d0bec3ff-2355-4a34-a7f3-43b7bc017327)
+![24](https://github.com/TurKLoJeN/core6cv/assets/32311900/87056ea2-8935-43c9-b9c5-1770a03051ef)
+![25](https://github.com/TurKLoJeN/core6cv/assets/32311900/b16e6f26-c020-4835-8609-5668dd4d95c7)
+![26](https://github.com/TurKLoJeN/core6cv/assets/32311900/846c3607-66c6-485a-9b57-6a3f0fd532ff)
+![21](https://github.com/TurKLoJeN/core6cv/assets/32311900/43d843b3-a1a3-459b-bd04-948fc7fb5afe)
 
 
 
